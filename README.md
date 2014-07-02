@@ -1,3 +1,3 @@
 CoderDojoKSQ
 ============
-This will repo will be home to many files for CoderDojo such as Alice projects and word documents.
+Use this repo to get all of the Alice projects and lessons to CoderDojo at the The Garage
